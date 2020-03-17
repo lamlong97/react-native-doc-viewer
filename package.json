@@ -1,6 +1,6 @@
 {
   "name": "xboss-rn-docviewer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "![nodei.co](https://nodei.co/npm/react-native-doc-viewer.png?downloads=true&downloadRank=true&stars=true)",
   "main": "index.js",
   "directories": {
